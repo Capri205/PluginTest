@@ -1,0 +1,14 @@
+{
+  "website": "http://ob-mc.net", 
+  "commands": {
+    "/obpt": {
+      "usage": "No usage", 
+      "description": "Spigot/Bukkit test plugin", 
+      "aliases": []
+    }
+  }, 
+  "version": "0.1", 
+  "name": "PluginTest", 
+  "author": "Fahrenheit451", 
+  "main": "net.obmc.PluginTest.PluginTest"
+}
